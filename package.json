@@ -1,0 +1,22 @@
+{
+    "name": "eotwcolortheme",
+    "displayName": "End of the World",
+    "description": "Light color theme based on Visual Studio 2019 Light",
+    "version": "1.0.1",
+    "publisher": "michaelspranger",
+    "engines": {
+        "vscode": "^1.51.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "End of the World",
+                "uiTheme": "vs",
+                "path": "./themes/eotw-color-theme.json"
+            }
+        ]
+    }
+}
